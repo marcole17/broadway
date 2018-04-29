@@ -4,7 +4,7 @@ body {
 
 .header {
   background-image: url("file:///C:/Users/Chun/Documents/coding_projects/broadway/resources/images/the-flatiron-building.png");
-  background-size: 100% 100%;
+  background-size: 100%;
 }
 
 h1 {
@@ -12,17 +12,41 @@ h1 {
   font-size: 70px;
   font-weight: bold;
   color: white;
+}
 
+h2 {
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3{
+  font-family: helvetica;
+  font-size:  23px
+  font-weight: bold;
+}
+
+p {
+  font-family: helvetica;
+  font-size: 14px;
+}
+
+.designed_in_new_york {
+  font-family: helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url("file:///C:/Users/Chun/Documents/coding_projects/broadway/resources/images/the-flatiron-building.png");
+  background-size: 100%;
 }
 
 #nav {
   font-family: helvetica;
   font-size: 18px;
   color: white;
-
 }
 
-.footer{
+.footer p {
   font-family: helvetica;
   font-size: 11px;
   color: white;
