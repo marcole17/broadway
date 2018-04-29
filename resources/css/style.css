@@ -1,0 +1,31 @@
+body {
+  text-align: center;
+}
+
+.header {
+  background-image: url("file:///C:/Users/Chun/Documents/coding_projects/broadway/resources/images/the-flatiron-building.png");
+  background-size: 100% 100%;
+}
+
+h1 {
+  font-family: helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+
+}
+
+#nav {
+  font-family: helvetica;
+  font-size: 18px;
+  color: white;
+
+}
+
+.footer{
+  font-family: helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
